@@ -23,7 +23,7 @@ plot(demand$weeks,demand$orders,xlab = "Week",ylab = "Order", type = "l") #line
 
 plot(demand$weeks,demand$orders,xlab = "Week",ylab = "Order", type = "b") #Both 
 
-# stair steps
+##stair steps
 
 plot(demand$weeks,demand$orders,xlab = "Week",ylab = "Order", type = "s") # stair steps
 ############## Subscribe this YouTube Channel Data/Fun  ####################################################
